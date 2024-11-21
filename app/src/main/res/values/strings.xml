@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FishGuard</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="profil">Profil</string>
+    <string name="back">Back</string>
+    <string name="edit">Edit</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="john_doe">John Doe</string>
+    <string name="email_profile">johndoe@gmail.com</string>
+    <string name="arrow">Arrow</string>
+    <string name="pengaturan">Pengaturan</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save">Selesai</string>
+    <string name="change_photo">Ganti foto profile</string>
+    <string name="first_name">Nama Awal</string>
+    <string name="last_name">Nama Akhir</string>
+    <string name="check">Cek</string>
+    <string name="change_password">Ubah Kata Sandi</string>
+</resources>
