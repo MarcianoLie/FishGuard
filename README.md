@@ -12,9 +12,15 @@ The depletion of fish populations affected by overfishing, illegal trade, and po
 
 # Team Member
 Adhityandi Anggara Putra - Mobile Development
+
 Reymontha Tarigan - Mobile Development
+
 Daffa Muhammad Rasyid - Cloud Computing
+
 Tian Sanjaya Junaedi - Cloud Computing
+
 Marciano Lie - Machine Learning
+
 Louis Koni Sung - Machine Learning
+
 Stevanus Felixiano - Machine Learning
